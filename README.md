@@ -1,4 +1,4 @@
-# Assignment 1
+# Assignment 2
 
 ![iNeuron](https://img.shields.io/badge/iNeuron-Full--Stack--Bootcamp-green)
 
@@ -10,7 +10,7 @@
 
 ![Nachiket,FullStackDeveloper](https://img.shields.io/badge/Nachiket%20Keripale-Full--Stack--Developer-brightgreen)
 
-## Project 1 [Live Link](https://nachiketkeripaleproject1.netlify.app/)
+## Project 2 [Live Link](https://nachiketkeripaleproject2.netlify.app/)
 
 -   Lerned to use backgroung image and other property.
 -   Used background blend mode property.
